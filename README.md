@@ -10,3 +10,5 @@ public class sum {
         int num2 = sc.nextInt();
         // int sum = num1 + num2;
         System.out.println("the sum of num1 and num2 is " + (num1 + num2))
+}
+}
